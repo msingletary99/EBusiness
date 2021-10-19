@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/web/index.html</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/web/login.jsp</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/exceptions/RecordNotFoundException.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/domain/Transaction.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/domain/Customer.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/exceptions/LoginException.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/database/CustomerDA.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/database/TransactionDA.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/servlets/TransactionServlet.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/src/java/domain/BankingSystem.java</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/web/accountList.jsp</file>
+            <file>file:/C:/Users/singl/OneDrive/Documents/NetBeansProjects/Lab4/web/transactionList.jsp</file>
+        </group>
+    </open-files>
+</project-private>
